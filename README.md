@@ -1,5 +1,5 @@
 # StockMasterPro
-Proyecto de software para organización del inventario de tiendas, así como para vender los productos.
+Es un royecto de software para organización del inventario de tiendas, así como para vender los productos.
 Los artefactos utilizados en la primera entrega fueron:
 1. La creación de "Personas" junto con sus historias, actividades y metas.
 2. La creación de "Criterios de Aceptación", en base a las historias hechas anteriormente.
