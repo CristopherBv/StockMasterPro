@@ -7,3 +7,7 @@ La primera versión de la tabla de gestión se encuentra arriba en los documento
 en este se puede ver la importancia de cada actividad, así como las personas que realizaron cada actividad, el estado de estas y la fecha máxima de entrega de cada una.
 
 La versión final de la entrega se puede visualizar en el siguiente link: https://www.canva.com/design/DAGSiNpOWpE/BrCMOjkFFHbJZTWJGF68sg/edit?utm_content=DAGSiNpOWpE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+El vídeo de la presentación se puede visualizar en uno de los siguientes links:
+Carpeta Google Drive: https://drive.google.com/file/d/1F8VGmLR3PKxMyuQWuPAUsbrpg624eDJv/view?usp=sharing
+Youtube: https://youtu.be/MvbIPQDzdVo?si=oy3ut1a0KYxJ5beI
